@@ -1,4 +1,4 @@
-# portscan.py
+# portScanner.py
 
 A lightweight, standard-library-only TCP port scanner for Linux. Uses bounded multithreading to check open ports, grab service banners, and export results to CSV.
 
